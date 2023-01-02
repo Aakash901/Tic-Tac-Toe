@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="winner">Most played game by backbenchers </string>
+    <string name="splash_name">Tic Tac Toe</string>
+</resources>
